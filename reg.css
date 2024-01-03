@@ -1,0 +1,13 @@
+body
+{
+   background-image: url('https://taps.ucsc.edu/bike-programs/bike-programs-images/bike-programs-header-740x300.jpg' );
+  background-repeat: no-repeat;
+  background-size:120%;
+}
+h1{
+    color: rgb(0, 1, 2);
+}
+td{
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+}
